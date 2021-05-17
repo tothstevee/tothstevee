@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tothstevee
+- 👀 I’m interested in back-end website development and hardware programing
+- 🌱 I’m currently learning node.js and react
+- 📫  https://tothistvan.net
